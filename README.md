@@ -1,6 +1,3 @@
-# 
-
-
 <h1 align="center">
    Netflix-Clone
   <br>
@@ -56,15 +53,15 @@ $ npm start
 
 <img align="center" height="300" src="./screenshots/Screenshot (54).png"/>
 
-### Dark Mode
+### Signup
 
 <img align="center" height="300" src="./screenshots/Screenshot (55).png"/>
 
-### Users Detail
+### Hover Effect
 
 <img align="center" height="300" src="./screenshots/Screenshot (56).png"/>
 
-### Register Page
+### Add to Favorite Movie/series
 
 <img align="center" height="300" src="./screenshots/Screenshot (57).png"/>
 
